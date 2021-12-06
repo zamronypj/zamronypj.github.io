@@ -72,14 +72,32 @@ content:
           - title:  Fano Framework Source Code
             icon: fab fa-github
             url: https://github.com/fanoframework/fano
+        quote: >
+          A Pascal web framework
+        description: | # this will include new lines to allow paragraphs
+          I create and maintain this project.
+      - layout: left
+        title: Fano Framework Documentation
+        link: https://fanoframework.github.io
+        link_text: Documentation for Fano Framework
+        additional_links:
           - title:  Fano Framework Documentation
             icon: fab fa-github
             url: https://github.com/fanoframework/fanoframework.github.io
+        quote: >
+          Documentation for Fano Framework
+        description: | # this will include new lines to allow paragraphs
+          I create and maintain this project.
+      - layout: left
+        title: Fano CLI
+        link: https://fanoframework.github.io
+        link_text: Fano CLI
+        additional_links:
           - title:  Fano CLI
             icon: fab fa-github
             url: https://github.com/fanoframework/fano-cli
         quote: >
-          A Pascal web framework
+          Command line tool for scaffolding Fano Framework web application.
         description: | # this will include new lines to allow paragraphs
           I create and maintain this project.
   - title: Experience
