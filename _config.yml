@@ -119,15 +119,25 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Dominopos
+      - layout: left
+        title: Dominopos Pte Ltd
         sub_title: Front End Developer
         caption: April 2016 - present
         link: https://dominopos.com
-        quote: >
-          Company behind Gotomalls.com
         description: | # this will include new lines to allow paragraphs
-          I am responsible for developing Gotomalls.com
+          I am responsible for developing Gotomalls.com.
+      - layout: left
+        title: PT Gatra Mega Berjangka
+        sub_title: Web Developer
+        caption: Dec 2005 - April 2016
+        description: | # this will include new lines to allow paragraphs
+          I was responsible for developing all company web applications.
+      - layout: left
+        title: Casperlab
+        sub_title: Delphi Programmer
+        caption: Dec 2002 - Sep 2005
+        description: | # this will include new lines to allow paragraphs
+          I developed and maintained PuzzleCreator, jigsaw puzzle game authoring software.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
