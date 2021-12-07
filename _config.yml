@@ -52,6 +52,10 @@ linkedin_username: zamronypjuhara
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+    Hi, my name Zamrony and I am software developer. I have experience making
+    many type of applications, from desktop application, Android mobile application to
+    web application.
+
     I think of myself as someone who is self-determined and adaptable. I have the ability to take on a fast-paced role thanks to my quick learning skills. I am resourceful.
 
     I am also versatile and friendly and helpful to my colleagues. I like to help fellow developers in many public forums such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272).
@@ -75,7 +79,13 @@ content:
             icon: fab fa-github
             url: https://github.com/fanoframework/fano
         description: | # this will include new lines to allow paragraphs
-          A web framework written in Pascal programming language.
+          This is a web framework written in Pascal programming language. Initially,
+          I started this project as a proof of concept for Pascal web framework that
+          has capability to map request to a class instance that responsible for
+          generating response.
+
+          Since then it has grown with many modern web framework features added such
+          as middleware support, input validation, session management, etc.
       - layout: left
         title: Fano Framework Documentation
         link: https://fanoframework.github.io
@@ -85,7 +95,11 @@ content:
             icon: fab fa-github
             url: https://github.com/fanoframework/fanoframework.github.io
         description: | # this will include new lines to allow paragraphs
-          Documentation for Fano Framework
+          This is documentation for Fano Framework. I believe documentation is
+          essential part of software library if you want other developer to use it.
+
+          As Fano Framework grows in features, a single README.md is no longer suffice.
+          I started to realize I needed a separate project to maintain documentation for Fano Framework.
       - layout: left
         title: Fano CLI
         link: https://fanoframework.github.io
@@ -95,7 +109,13 @@ content:
             icon: fab fa-github
             url: https://github.com/fanoframework/fano-cli
         description: | # this will include new lines to allow paragraphs
-          Command line tool for scaffolding Fano Framework web application.
+          This is command line tool for scaffolding Fano Framework web application.
+          Fano Framework uses interfaces and class composition heavily.
+          Fano Framework prefers configuration over convention. It
+          requires a lot of boilerplate code to start web application project.
+
+          Fano CLI is created to help alleviate by automating project creation, creating controller, view,
+          middleware etc.
   - title: Experience
     layout: list
     content:
