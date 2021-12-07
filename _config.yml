@@ -159,6 +159,7 @@ content:
           using DirectInput. Audio programming to play multiple sound effects and game music with DirectSound. Also
           discuss network programming with DirectPlay. Book also discusses terrain rendering and fog and shader programming.
 
+          Images below shows what kind of 3D graphics demo applications built.
           <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 # Footer
 footer_show_references: true
