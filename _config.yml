@@ -65,7 +65,11 @@ about_content: | # this will include new lines to allow paragraphs
 
     I wrote two books on Android and game programming topics, [Panduan Lengkap Pemrograman Android](https://andipublisher.com/produk-panduan-lengkap-pemrograman-android) and *Pemrograman Game 3D dengan DirectX*. I published Android [applications on Google Play](https://play.google.com/store/apps/developer?id=juhara.com) to fulfill my curiosity on how to deploy and publish Android application.
 
-
+    **Key Skills**:
+    - Programming
+    - Code debugging
+    - Web development projects
+    - Front end web development
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -151,7 +155,8 @@ content:
           - Developed company internal web application to meet specific requirements with particular layouts.
           - Developed landing pages, dashboards and online applications using jQuery and PHP scripting.
           - Generated web hosting presence to accommodate specified needs, uploading and maintaining files on account.
-    Worked with content creator to update web presence with up to date forex trading data.      - layout: left
+          - Worked with content creator to update web presence with up to date forex trading data.
+      - layout: left
         title: Casperlab
         sub_title: Delphi Programmer
         caption: Dec 2002 - Sep 2005
