@@ -98,7 +98,7 @@ content:
           This is documentation for Fano Framework. I believe documentation is
           essential part of software library if you want other developer to use it.
 
-          As Fano Framework grows in features, a single README.md is no longer suffice.
+          As Fano Framework grows in features, a single README.md documentation is no longer suffice.
           I started to realize I needed a separate project to maintain documentation for Fano Framework.
       - layout: left
         title: Fano CLI
