@@ -123,7 +123,7 @@ content:
         additional_links:
           - title:  mod_pascal
             icon: fab fa-github
-            url: https://github.com/zamornypj/mod_pascal
+            url: https://github.com/zamronypj/mod_pascal
         description: | # this will include new lines to allow paragraphs
           An Apache module with capability to execute Pascal program.
           This is inspired by mod_php or mod_python. This is proof of concept and not ready for production setup.
