@@ -116,6 +116,17 @@ content:
 
           Fano CLI is created to alleviate problem by automating project creation, creating controller, view,
           middleware etc.
+      - layout: left
+        title: mod_pascal
+        link: https://zamronypj.github.io/mod_pascal/
+        link_text: Apache module with capability to execute Pascal program
+        additional_links:
+          - title:  mod_pascal
+            icon: fab fa-github
+            url: https://github.com/zamornypj/mod_pascal
+        description: | # this will include new lines to allow paragraphs
+          An Apache module with capability to execute Pascal program.
+          This is inspired by mod_php or mod_python. This is proof of concept and not ready for production setup.
   - title: Experience
     layout: list
     content:
