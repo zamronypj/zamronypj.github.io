@@ -239,3 +239,13 @@ body {
     display: none !important;
   }
 }
+
+.print-only {
+   display: none !important;
+}
+
+@media print {
+  .print-only {
+      display: revert;
+  }
+}
