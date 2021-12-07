@@ -6,8 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
+title: Zamrony P. Juhara
 name: Zamrony P. Juhara
-title: Software developer
+profile_title: Software developer
 email: zamronypj@yahoo.com
 # email_title: Email (Email title override)
 phone: +62 81 7524 1131
