@@ -84,7 +84,7 @@ content:
           has capability to map request to a class instance that responsible for
           generating response.
 
-          Since then it has grown with many modern web framework features added such
+          Since then, it has grown with many modern web framework features added such
           as middleware support, input validation, session management, etc.
       - layout: left
         title: Fano Framework Documentation
