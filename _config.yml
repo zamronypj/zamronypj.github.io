@@ -103,7 +103,7 @@ content:
       - layout: left
         title: Fano CLI
         link: https://fanoframework.github.io
-        link_text: Fano CLI
+        link_text: Fano Command Line tool
         additional_links:
           - title:  Fano CLI
             icon: fab fa-github
