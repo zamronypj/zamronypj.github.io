@@ -9,7 +9,7 @@
     <div class="{{ 'col-xs-12 no-print ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       {{ site.about_content | strip | markdownify }}
     </div>
-    <div class="print-only">
+    <div class="col-xs-12 print-only">
       {{ site.about_content_print | strip | markdownify }}
     </div>
   </div>
