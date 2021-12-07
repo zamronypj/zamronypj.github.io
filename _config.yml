@@ -71,7 +71,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Web development projects
     - Front end web development
 content:
-  - title: Experience
+  - title: Work Experience
     layout: list
     content:
       - layout: left
