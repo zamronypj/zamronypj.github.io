@@ -244,10 +244,6 @@ body {
    display: none !important;
 }
 
-img.no-page-break {
-  display: none !important;
-}
-
 @media print {
   .print-only {
       display: revert !important;
