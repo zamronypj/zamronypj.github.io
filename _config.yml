@@ -137,11 +137,12 @@ content:
         link: https://dominopos.com
         description: | # this will include new lines to allow paragraphs
           - Developed gotomalls.com application to meet specific requirements with particular layouts.
-          - Produced websites compatible with multiple browsers.
+          - Produced websites compatible with multiple browsers and devices.
           - Collaborated with in-house web designers to create sleek and innovative UI design.
           - Developed landing pages, dashboards and online applications using jQuery, AngularJS, vue.js and PHP scripting.
           - Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.
           - Employed coding practices based on commonly accepted standards to establish site layout and user interface.
+          - Converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON data from backend API.
       - layout: left
         title: PT Gatra Mega Berjangka
         sub_title: Web Developer
@@ -149,12 +150,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developed company internal web application to meet specific requirements with particular layouts.
           - Developed landing pages, dashboards and online applications using jQuery and PHP scripting.
-      - layout: left
+          - Generated web hosting presence to accommodate specified needs, uploading and maintaining files on account.
+    Worked with content creator to update web presence with up to date forex trading data.      - layout: left
         title: Casperlab
         sub_title: Delphi Programmer
         caption: Dec 2002 - Sep 2005
         description: | # this will include new lines to allow paragraphs
-          - Developed and maintained PuzzleCreator, jigsaw puzzle game authoring software.
+          - Developed and maintained PuzzleCreator a puzzle game authoring programs using Delphi programming language.
+          - Debugged problems caused by hardware, operating systems software, application programs.
   - title: My Books
     layout: list
     content:
