@@ -116,6 +116,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developed and maintained PuzzleCreator a puzzle game authoring programs using Delphi programming language.
           - Debugged problems caused by hardware, operating systems software, application programs.
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Institut Teknologi Sepuluh Nopember Surabaya
+        sub_title: Bachelor of Engineering
   - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -201,12 +207,6 @@ content:
 
           <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/23152947@N03/albums/72157628071944416" title="Color Plate Buku Pemrograman Game 3D dengan DirectX"><img src="https://live.staticflickr.com/6236/6321315812_df778befe1_z.jpg" width="640" height="480" alt="Color Plate Buku Pemrograman Game 3D dengan DirectX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </p>
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Institut Teknologi Sepuluh Nopember Surabaya
-        sub_title: Bachelor of Engineering
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
