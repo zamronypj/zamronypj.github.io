@@ -10,7 +10,9 @@
       {{ site.about_content | strip | markdownify }}
     </div>
     <div class="col-xs-12 print-only">
-      <img src="{{ site.about_profile_image | relative_url }}" width="100" class="rounded">
+      <div class="text-center rounded">
+          <img src="{{ site.about_profile_image | relative_url }}" width="100" class="rounded">
+      </div>
       {{ site.about_content_print | strip | markdownify }}
     </div>
   </div>
