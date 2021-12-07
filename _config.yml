@@ -114,7 +114,7 @@ content:
           Fano Framework prefers configuration over convention. It
           requires a lot of boilerplate code to start web application project.
 
-          Fano CLI is created to help alleviate by automating project creation, creating controller, view,
+          Fano CLI is created to alleviate problem by automating project creation, creating controller, view,
           middleware etc.
   - title: Experience
     layout: list
