@@ -153,8 +153,9 @@ content:
         title: Pemrograman Game 3D dengan DirectX
         img: /images/pemrograman-game-3d-dengan-directx.webp
         description: | # this will include new lines to allow paragraphs
-          DirectX programming book that discusses from getting started with DirectX component such as
-          working with 3D graphics with Direct3D such as rendering 3D primitives. Reading game input device such keyboard, mouse, gamepad and joystick
+          DirectX programming book that discusses from getting started with DirectX components,
+          working with 3D graphics with Direct3D such as rendering 3D primitives.
+          Reading game input device such keyboard, mouse, gamepad and joystick
           using DirectInput. Audio programming to play multiple sound effects and game music with DirectSound. Also
           discuss network programming with DirectPlay. Book also discusses terrain rendering and fog and shader programming.
 
