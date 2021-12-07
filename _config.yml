@@ -136,19 +136,25 @@ content:
         caption: April 2016 - present
         link: https://dominopos.com
         description: | # this will include new lines to allow paragraphs
-          I am responsible for developing Gotomalls.com.
+          - Developed gotomalls.com application to meet specific requirements with particular layouts.
+          - Produced websites compatible with multiple browsers.
+          - Collaborated with in-house web designers to create sleek and innovative UI design.
+          - Developed landing pages, dashboards and online applications using jQuery, AngularJS, vue.js and PHP scripting.
+          - Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.
+          - Employed coding practices based on commonly accepted standards to establish site layout and user interface.
       - layout: left
         title: PT Gatra Mega Berjangka
         sub_title: Web Developer
         caption: Dec 2005 - April 2016
         description: | # this will include new lines to allow paragraphs
-          I was responsible for developing all company web applications.
+          - Developed company internal web application to meet specific requirements with particular layouts.
+          - Developed landing pages, dashboards and online applications using jQuery and PHP scripting.
       - layout: left
         title: Casperlab
         sub_title: Delphi Programmer
         caption: Dec 2002 - Sep 2005
         description: | # this will include new lines to allow paragraphs
-          I developed and maintained PuzzleCreator, jigsaw puzzle game authoring software.
+          - Developed and maintained PuzzleCreator, jigsaw puzzle game authoring software.
   - title: My Books
     layout: list
     content:
