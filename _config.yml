@@ -72,6 +72,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Code debugging
     - Web development projects
     - Front end web development
+    - Mobile app development
 about_content_print: | # this will include new lines to allow paragraphs
     Goal-oriented software developer brings strong commitment to collaboration and solutions-oriented problem-solving.
     Use various tools and libraries to develop custom-crafted, customer-focused software applications.
@@ -81,6 +82,7 @@ about_content_print: | # this will include new lines to allow paragraphs
     - Code debugging
     - Web development projects
     - Front end web development
+    - Mobile app development
 content:
   - title: Work Experience
     layout: list
