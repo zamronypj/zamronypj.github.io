@@ -11,6 +11,10 @@
         </a>
       {%- endif -%}
 
+      {%- if include.item.img -%}
+        <p><img src="{{ include.item.img }}" width="64"></p>
+      {%- endif -%}
+
       <p class="no-print aditional-links">
         {% for link in item.additional_links %}
           {% include a.html href=link.url class="" %}
