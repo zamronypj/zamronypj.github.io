@@ -50,7 +50,7 @@ linkedin_username: zamronypjuhara
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/zzz.jpeg
 about_content: | # this will include new lines to allow paragraphs
     Hi, my name Zamrony and I am software developer. I have experience making
     many type of applications, from desktop application, Android mobile application to
