@@ -244,9 +244,19 @@ body {
    display: none !important;
 }
 
+img.no-page-break {
+  display: none !important;
+}
+
 @media print {
   .print-only {
       display: revert !important;
+  }
+
+  img.no-page-break {
+    page-break-before: auto !important;
+    page-break-after: auto !important;
+    page-break-inside: avoid !important;
   }
 }
 
