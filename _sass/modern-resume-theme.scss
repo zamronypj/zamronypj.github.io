@@ -103,9 +103,11 @@
     h4 {
       margin-bottom: 0.1rem;
       font-weight: 500;
+      color:crimson;
 
       @media print {
         margin-bottom: 0.2rem;
+        color:inherit;
       }
 
       a {

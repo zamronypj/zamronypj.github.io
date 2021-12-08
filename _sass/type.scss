@@ -50,12 +50,13 @@ h3 {
   font-weight: 300;
   font-size: 3rem;
   text-align: center;
-  border-bottom: dashed 2px #CCCCCC;
+  border-bottom: dashed 2px crimson;
   padding-bottom: 10px;
   margin-bottom:40px;
 
   @media print {
     margin-bottom: 20px;
+    border-bottom: dashed 2px #cccccc;
   }
 }
 
