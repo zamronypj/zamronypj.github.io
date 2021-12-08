@@ -12,4 +12,18 @@
   a {
     color: #477dca;
   }
+
+  .layout {
+    .details {
+      h4 {
+        color : rgb(224, 117, 139);
+      }
+    }
+  }
+
+  .list-container {
+    h3 {
+      border-bottom: dashed 2px rgb(224, 117, 139);
+    }
+  }
 }
