@@ -88,9 +88,20 @@ content:
     layout: list
     content:
       - layout: left
+        title: Brankas
+        sub_title: Front End Developer
+        caption: March 2022 - present
+        link: https://brank.as
+        description: | # this will include new lines to allow paragraphs
+          - Developed and maintain Vue.js web UI component to meet specific requirements with particular layouts.
+          - Produced web UI compatible with multiple browsers and devices.
+          - Collaborated with UX/UI designers to convert UI design to Vue.js component.
+          - Collaborated with QA to fix any reported bugs.
+          - Employed coding practices based on commonly accepted standards to establish site layout and user interface.
+      - layout: left
         title: Dominopos Pte Ltd
         sub_title: Front End Developer
-        caption: April 2016 - present
+        caption: April 2016 - February 2022
         link: https://dominopos.com
         description: | # this will include new lines to allow paragraphs
           - Developed gotomalls.com application to meet specific requirements with particular layouts.
