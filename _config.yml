@@ -93,7 +93,8 @@ content:
         caption: March 2022 - March 2023
         link: https://brank.as
         description: | # this will include new lines to allow paragraphs
-          - I was part of Tap team which is responsible for developing and maintaining Tap application, Brankas's customer-facing Golang + Vue.js application to onboard customer onto Brankas Open Finance services easily.         
+          - I was part of Tap team which is responsible for developing and maintaining Tap application, Brankas's customer-facing Golang + Vue.js application to onboard customer onto Brankas Open Finance services easily.
+          - I refactored Tap application from Golang-based template into Vue.js template with Nuxt.js
           - Developed and maintain Vue.js web UI component to meet specific requirements with particular layouts.
           - Produced web UI compatible with multiple browsers and devices.
           - Collaborated with UX/UI designers to convert UI design to Vue.js component.
