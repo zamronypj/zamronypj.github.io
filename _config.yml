@@ -60,9 +60,11 @@ about_content: | # this will include new lines to allow paragraphs
     In addition, I am versatile, friendly, and helpful to my colleagues. I like to assist fellow developers in various public forums, such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272). 
     I am an open-minded person who listens to others because I believe I can learn something from them.
 
-    I started programming computers as a hobbyist. During my leisure time, I create and maintain several personal software projects. Some of these projects are open-source, such as the [Fano Framework](https://fanoframework.github.io), which is a web framework written in Free Pascal.
+    I started programming computers as a hobbyist. During my leisure time, I create and maintain several personal software projects. Some of these projects are open-source, such as the [Fano Framework](https://fanoframework.github.io), which is a web framework written in Free Pascal. 
+    I have also created and maintain some [PHP Composer packages](https://packagist.org?query=juhara).
 
     I have written two books on Android and game programming topics, [Panduan Lengkap Pemrograman Android](https://andipublisher.com/produk/detail/panduan-lengkap-pemrograman-android) and [Pemrograman Game 3D dengan DirectX](https://andipublisher.com/produk/detail/pemrograman-game-3d-dengan-directx). I have also published Android [applications on Google Play](https://play.google.com/store/apps/developer?id=juhara.com) to fulfill my curiosity about deploying and publishing Android applications.
+    
 
     **Key Skills**:
     - Programming.
