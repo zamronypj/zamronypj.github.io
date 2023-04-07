@@ -53,26 +53,23 @@ stackoverflow_username: "5855039"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/zpj400x400.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name Zamrony and I am software developer. I have experience making
-    many type of applications, from desktop applications, Android mobile applications to
-    web applications.
+    Hi, my name is Zamrony and I am a software developer. I have experience creating many types of applications, from desktop and Android mobile applications to web applications.
 
-    I think of myself as someone who is self-determined and adaptable. I have the ability to take on a fast-paced role thanks to my quick learning skills.
-    I was given task to learn AngularJS, framework which I practically had no experience at all. In just few weeks, I can keep up with team. I am resourceful.
+    I consider myself to be self-determined and adaptable. Thanks to my quick learning skills, I am able to take on fast-paced roles. For instance, I was given the task to learn AngularJS, a framework which I had practically no experience with. In just a few weeks, I was able to keep up with the team. I am also resourceful.
 
-    I am also versatile and friendly and helpful to my colleagues. I like to help fellow developers in many public forums such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272).
-    I am open-minded person. I listen to others as I believe I may be able to learn something from them.
+    In addition, I am versatile, friendly, and helpful to my colleagues. I like to assist fellow developers in various public forums, such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272). 
+    I am an open-minded person who listens to others because I believe I can learn something from them.
 
-    I started programming computer as hobbyist. On my leisure time, I create and maintain several personal software projects. Some projects are open-source project such as [Fano Framework](https://fanoframework.github.io) which is a web framework written in Free Pascal.
+    I started programming computers as a hobbyist. During my leisure time, I create and maintain several personal software projects. Some of these projects are open-source, such as the [Fano Framework](https://fanoframework.github.io), which is a web framework written in Free Pascal.
 
-    I wrote two books on Android and game programming topics, [Panduan Lengkap Pemrograman Android](https://andipublisher.com/produk/detail/panduan-lengkap-pemrograman-android) and [Pemrograman Game 3D dengan DirectX](https://andipublisher.com/produk/detail/pemrograman-game-3d-dengan-directx). I published Android [applications on Google Play](https://play.google.com/store/apps/developer?id=juhara.com) to fulfill my curiosity on how to deploy and publish Android application.
+    I have written two books on Android and game programming topics, [Panduan Lengkap Pemrograman Android](https://andipublisher.com/produk/detail/panduan-lengkap-pemrograman-android) and [Pemrograman Game 3D dengan DirectX](https://andipublisher.com/produk/detail/pemrograman-game-3d-dengan-directx). I have also published Android [applications on Google Play](https://play.google.com/store/apps/developer?id=juhara.com) to fulfill my curiosity about deploying and publishing Android applications.
 
     **Key Skills**:
-    - Programming
-    - Code debugging
-    - Web development projects
-    - Front end web development
-    - Mobile app development
+    - Programming.
+    - Code debugging.
+    - Web development projects.
+    - Front-end web development.
+    - Mobile application development.
 about_content_print: | # this will include new lines to allow paragraphs
     Goal-oriented software developer brings strong commitment to collaboration and solutions-oriented problem-solving.
     Use various tools and libraries to develop custom-crafted, customer-focused software applications.
