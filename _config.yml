@@ -57,14 +57,14 @@ about_content: | # this will include new lines to allow paragraphs
 
     I consider myself to be self-determined and adaptable. Thanks to my quick learning skills, I am able to take on fast-paced roles. For instance, I was given the task to learn AngularJS, a framework which I had practically no experience with. In just a few weeks, I was able to keep up with the team. I am also resourceful.
 
-    In addition, I am versatile, friendly, and helpful to my colleagues. I like to assist fellow developers in various public forums, such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272). 
+    In addition, I am versatile, friendly, and helpful to my colleagues. I like to assist fellow developers in various public forums, such as [answering this question in Stackoverflow](https://stackoverflow.com/questions/14054122/associate-an-object-with-marker-google-map-v2/39122553#39122553) or [this question](https://stackoverflow.com/questions/48738176/constraintlayout-how-to-align-centers-of-two-views-vertically/48738272#48738272).
     I am an open-minded person who listens to others because I believe I can learn something from them.
 
-    I started programming computers as a hobbyist. During my leisure time, I create and maintain several personal software projects. Some of these projects are open-source, such as the [Fano Framework](https://fanoframework.github.io), which is a web framework written in [Free Pascal](https://freepascal.org). 
+    I started programming computers as a hobbyist. During my leisure time, I create and maintain several personal software projects. Some of these projects are open-source, such as the [Fano Framework](https://fanoframework.github.io), which is a web framework written in [Free Pascal](https://freepascal.org).
     I have also created and maintain some [PHP Composer packages](https://packagist.org?query=juhara).
 
     I have written two books on Android and game programming topics, [Panduan Lengkap Pemrograman Android](https://andipublisher.com/produk/detail/panduan-lengkap-pemrograman-android) and [Pemrograman Game 3D dengan DirectX](https://andipublisher.com/produk/detail/pemrograman-game-3d-dengan-directx). I have also published Android [applications on Google Play](https://play.google.com/store/apps/developer?id=juhara.com) to fulfill my curiosity about deploying and publishing Android applications.
-    
+
 
     **Key Skills**:
     - Programming.
@@ -86,6 +86,17 @@ content:
   - title: Work Experience
     layout: list
     content:
+      - layout: left
+        title: PT. Bank Panin Tbk
+        sub_title: Software Engineer
+        caption: May 2023 - Present
+        link: https://panin.co.id
+        description: | # this will include new lines to allow paragraphs
+          - Developed and maintain Panin Bank internal applications.
+          - Collaborated with UX/UI designers to develop new features.
+          - Collaborated with QA to fix any reported bugs.
+          - Employed coding practices based on commonly accepted standards to establish site layout and user interface.
+          - Debugging, refactor and fix various application issues.
       - layout: left
         title: Brankas
         sub_title: Front End Developer
